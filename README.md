@@ -1,1 +1,1 @@
-# Speak-the-Meaning-of-the-Word
+Speak the Meaning of the Word is an interactive desktop application that provides word meanings, pronunciation via text-to-speech, and close match suggestions for misspelled words. It is designed to help users improve vocabulary and enhance pronunciation through a simple, user-friendly interface. Built with Python and Tkinter, this app is lightweight and easy to use, making it an excellent tool for language learners and enthusiasts.
